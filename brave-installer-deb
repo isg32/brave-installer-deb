@@ -1,7 +1,12 @@
 #!/bin/sh
-echo""
+echo " Welcome to isg32's script"
+sleep 2
+clear
+echo " "
+echo " "
 echo " Installing Brave-Browser..."
-echo ""
+echo " "
+echo " "
 sleep 2
 
 clear
