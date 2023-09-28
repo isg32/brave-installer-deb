@@ -6,6 +6,8 @@ Usage:
 ```
 git clone https://github.com/isg32/brave-installer-deb.git
 
+cd brave-installer-deb
+
 chmod +x brave-installer-deb
 
 ./brave-installer-deb
